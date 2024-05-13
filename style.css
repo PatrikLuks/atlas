@@ -1,0 +1,23 @@
+        h1 {
+            background-color: cadetblue;
+            text-align: center; 
+            padding: 10px;
+        }
+
+        #selectContinent {
+            background-color: antiquewhite;
+            width: 100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000px;
+            font-size:xx-large;
+            max-width: 100%; 
+            margin: 0 auto; 
+            text-align: center;
+        }
+        .card {
+            cursor: pointer; 
+        }
+
+        .card:hover {
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+        }
+
+        
